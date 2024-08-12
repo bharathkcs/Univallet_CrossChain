@@ -2,6 +2,13 @@
 
 Univalet is an innovative cross-chain cryptocurrency wallet designed to simplify the management of digital assets across multiple blockchains. Our platform provides users with a comprehensive set of features, including the ability to send, receive, swap, borrow, and repay various tokens seamlessly within a secure and user-friendly environment. Leveraging the power of Analog Stacks, Univalet offers true cross-chain interoperability, allowing users to perform transactions across Ethereum and Polygon networks effortlessly.
 
+## Video Demonstration
+
+You can watch the video demonstration of the Univallet app here:
+
+[![Univallet App Video](https://img.youtube.com/vi/oCoDixVuQic/0.jpg)](https://www.youtube.com/watch?v=oCoDixVuQic)
+
+
 ## Key Features
 
 - **Seamless Token Swaps:** Swap tokens between Ethereum and Polygon with ease.
